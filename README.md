@@ -48,8 +48,7 @@ Run TCPclient.py (through same methods as above)
 Replace servername to either your IPAddress or to hostname
 *If you replaced the server Port in UDPserver.py, then do the same in this file*
 ### 3. testcases.txt file
-For both UDP and TCP, be sure that testcases.txt is in the same folder. 
-So that the file can be opened from either client file.
+For both UDP and TCP, be sure that testcases.txt is in the same folder so that the file can be opened from either client file.
 
 
 ## Test and Edge cases 
