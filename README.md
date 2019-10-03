@@ -100,18 +100,18 @@ Move the vat over the hot fire.
 *(Multiple Blanks in between)*
 
 Above 2 lines are blank is
-Here is a passage from Hamlet by William Shakespeare
 
 
-Returns
+
+Output::
 
 4, 3, 3, 4, 3, 3, 5
 
-*(multiple blanks in between)* 
-
+*(same number of blanks in between)* 
 
 5, 1, 5, 3, 5, 2
-4, 2, 1, 7, 4, 6, 2, 7, 11
+
+
 
 ## File descriptions
 
