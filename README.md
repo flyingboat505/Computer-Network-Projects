@@ -31,6 +31,8 @@ I’m   *(multiple spaces in between)*       a   ()  *(multiple spaces in betwee
 Output::
 3,1,7,2,5
 
+## How to Run 
+
 ### 1.UDP
 Run UDPserver.py (either through IDE or through terminal)
 If need be,replace the serverPort number to a different free port number. Then,run UDPclient.py (through same methods as above)
