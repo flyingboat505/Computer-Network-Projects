@@ -91,7 +91,7 @@ Returns ::
 5, 8, 2, 5
 
 
-Edge Case #3 (Many Blanks in between two sentences)
+### Edge Case #3 (Many Blanks in between two sentences)
 
 Input::
 
