@@ -21,9 +21,9 @@ Output::
 Sentences that are blank return nothing and multiple spaces face the same criteria 
 
 ### Example # 2 (Multiple Spaces)
-*note md files do not support multiple spaces so
+**note md files do not support multiple spaces so
 I added *(multiple spaces in between)* to indicate that the input
-can have many spaces in between*
+can have many spaces in between inputs or *(multiple blanks in between)* to indicate mutliple blank lines** 
 
 Input::
 I’m   *(multiple spaces in between)*       a   ()  *(multiple spaces in between)*         student      at  *(multiple spaces in between)*          SJSU.
@@ -52,10 +52,10 @@ So that the file can be opened from either client file.
 
 ## Test and Edge cases 
 I had all my TestCase Files in a file called *testcases.txt*. I included several custom sentences for an edge case,  List 13 of 
-Harvard Lines (https://en.wikipedia.org/wiki/Harvard_sentences), and a passage from Hamlet by William Shakesphere (Act 2 Scene 2).
+Harvard Lines (https://en.wikipedia.org/wiki/Harvard_sentences), and a passage from Hamlet by William Shakesphere (Act 2 Scene 2). *I tried to include lines from difference sources to diversify my input.* 
 
 Since the two server files have the same functionality, with different approaches and protocols, I used the same test cases for both. 
-I tried to include lines from difference sources to diversify my input. 
+ 
 
 I have several particular edge cases.
 
