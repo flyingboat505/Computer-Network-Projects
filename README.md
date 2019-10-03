@@ -21,7 +21,7 @@ Output::
 Sentences that are blank return nothing and multiple spaces face the same criteria 
 
 ### Example # 2 (Multiple Spaces)
-**note md files do not support multiple spaces so
+**Note md files do not support multiple spaces so
 I added *(multiple spaces in between)* to indicate that the input
 can have many spaces in between inputs or *(multiple blanks in between)* to indicate mutliple blank lines** 
 
