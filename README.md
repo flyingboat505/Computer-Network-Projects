@@ -1,4 +1,4 @@
-# Lab #1: Simple UDP and TCP socket program
+# Lab #1: Simple UDP and TCP socket programs
 ## By Abhilash Munnangi
 
 ## Assignment 
