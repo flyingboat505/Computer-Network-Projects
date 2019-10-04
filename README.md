@@ -110,6 +110,8 @@ Output::
 
 5, 1, 5, 3, 5, 2
 
+*Harvard sentence output will be at the end of the Readme file*
+
 ## File descriptions
 
 ### UDPserver.py
