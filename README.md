@@ -110,8 +110,6 @@ Output::
 
 5, 1, 5, 3, 5, 2
 
-
-
 ## File descriptions
 
 ### UDPserver.py
@@ -144,3 +142,56 @@ Then, unlike the UDP server, closes the connection to enable other clients to us
 TCPclient.py also has many similarities to UDPclient.py but has a few key differences. A different port number, to enable the user to test the UDP files concurrently. 
 The socket created has SOCK_STREAM as a parameter, which means that the connection is reserved. So that means that once a sentence is read, the client has to 
 close and reopen the socket in order to send another sentence as there can only be one connection at a time in TCP.
+ 
+
+### Standard test case (List 13 of Harvard sentences )
+
+Just the standard output of the Harvard sentence portion of testcases.txt. Formatted with sentence as an input and list of numbers as the output.
+
+Above Sentence is Blank
+
+5, 8, 2, 5
+
+Here is List 13 of the Harvard Sentences
+
+4, 2, 4, 2, 2, 3, 7, 9
+
+Oak is strong and also gives shade.
+
+3, 2, 6, 3, 4, 5, 6
+
+Cats and dogs each hate the other.
+
+4, 3, 4, 4, 4, 3, 6
+
+The pipe began to rust while new.
+
+3, 4, 5, 2, 4, 5, 4
+
+Open the crate but don't break the glass.
+
+4, 3, 5, 3, 5, 5, 3, 6
+
+Add the sum to the product of these three.
+
+3, 3, 3, 2, 3, 7, 2, 5, 6
+
+Thieves who rob friends deserve jail.
+
+7, 3, 3, 7, 7, 5
+
+The ripe taste of cheese improves with age.
+
+3, 4, 5, 2, 6, 8, 4, 4
+
+Act on these orders with great speed.
+
+3, 2, 5, 6, 4, 5, 6
+
+The hog crawled under the high fence.
+
+3, 3, 7, 5, 3, 4, 6
+
+Move the vat over the hot fire.
+
+4, 3, 3, 4, 3, 3, 5
